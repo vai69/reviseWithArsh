@@ -26,7 +26,7 @@ public:
                 t[k] = t[k-1];
                 k--;
             }
-        }    
+        }   23455 
         
         return ans;
     }
